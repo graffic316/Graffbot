@@ -1,2 +1,3 @@
 # Graffbot
 Kick bot
+Test
